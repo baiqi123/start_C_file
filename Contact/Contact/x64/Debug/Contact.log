@@ -1,0 +1,6 @@
+﻿  contact.c
+D:\C++_file\Contact\Contact\contact.h(1,1): warning C4828: 文件包含在偏移 0x473 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  test.c
+D:\C++_file\Contact\Contact\contact.h(1,1): warning C4828: 文件包含在偏移 0x473 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  正在生成代码...
+  Contact.vcxproj -> D:\C++_file\Contact\x64\Debug\Contact.exe
